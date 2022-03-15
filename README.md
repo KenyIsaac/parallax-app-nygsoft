@@ -1,0 +1,1 @@
+Aplicación de prueba técnica de NyGSoft
